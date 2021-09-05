@@ -19,6 +19,7 @@ I used [shrtco](https://shrtco.de/docs/) to shorten links.
 
 <img src="https://i.ibb.co/ZMcGPmt/simulator-screenshot-26-EDB06-A-8-FE3-4-BD9-9189-AF87-ACB4564-F.png" width="450" height="800">
 
-![Main Screen with Error](https://i.ibb.co/dWhvkpW/simulator-screenshot-AD562645-20-BD-48-CB-9-B00-2-F552-C85676-A.png)
+<img src="https://i.ibb.co/dWhvkpW/simulator-screenshot-AD562645-20-BD-48-CB-9-B00-2-F552-C85676-A.png" width="450" height="800">
 
-![List Screen](https://i.ibb.co/P6nnm69/simulator-screenshot-E13-CAC4-B-17-CE-4537-A526-7-EB2-B62-FF7-D6.png)
+<img src="https://i.ibb.co/P6nnm69/simulator-screenshot-E13-CAC4-B-17-CE-4537-A526-7-EB2-B62-FF7-D6.png" width="450" height="800">
+
