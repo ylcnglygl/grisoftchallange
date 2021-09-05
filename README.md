@@ -10,14 +10,14 @@ I used [shrtco](https://shrtco.de/docs/) to shorten links.
 
 ## Dependencies
 - [get](https://pub.dev/packages/get)
-- [flutter_svg](flutter_svg: ^0.22.0)
-- [http](http: ^0.13.3)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [http](https://pub.dev/packages/http)
 
 
 ## App Designs
 
-![Main Screen](https://i.ibb.co/ZMcGPmt/simulator-screenshot-26-EDB06-A-8-FE3-4-BD9-9189-AF87-ACB4564-F.png)
+![Main Screen](https://i.ibb.co/ZMcGPmt/simulator-screenshot-26-EDB06-A-8-FE3-4-BD9-9189-AF87-ACB4564-F.png = 250x250)
 
-![Main Screen with Error](https://i.ibb.co/dWhvkpW/simulator-screenshot-AD562645-20-BD-48-CB-9-B00-2-F552-C85676-A.png)
+![Main Screen with Error](https://i.ibb.co/dWhvkpW/simulator-screenshot-AD562645-20-BD-48-CB-9-B00-2-F552-C85676-A.png = 250x250)
 
-![List Screen](https://i.ibb.co/P6nnm69/simulator-screenshot-E13-CAC4-B-17-CE-4537-A526-7-EB2-B62-FF7-D6.png)
+![List Screen](https://i.ibb.co/P6nnm69/simulator-screenshot-E13-CAC4-B-17-CE-4537-A526-7-EB2-B62-FF7-D6.png = 250x250)
